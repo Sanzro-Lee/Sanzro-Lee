@@ -1,4 +1,4 @@
-##macOS X 10.15:
+**macOS X 10.15:**<br>
 Design:
 1. Adobe XD: Adobe 公司推出的原型设计软件。
 2. Adobe Photoshop: Adobe 公司推出的强大的图片编辑软件。
