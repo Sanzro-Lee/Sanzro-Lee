@@ -31,10 +31,40 @@ OtherTools:
 5. Folx: 超级好用的下载软件。
 6. IINA: 没有 Potpalyer 的陪伴，只能用用这个了，这个也挺好用的。
 7. Notion: 必备事务计划软件。
-8. V2vayU: 简洁的 V2ray 软件。
+8. V2vayU: 你懂的。
 9. Window Tidy: 窗口分配软件。
 10. Alfred: 聚合型系统搜索引擎。
 11. Mounty: NTFS 格式读写必备软件。
 12. OpenEmu: 聚合多种游戏平台模拟器的模拟器软件。
 13. CleanMyMac X: 交互设计精致的系统清理软件。
 14. Logic Pro X: 音乐编辑软。
+<br><br>
+
+**Windows 10:**<br>
+（与 macOS 重叠的软件将不再赘述）<br>
+Develop:
+1. Visual Studio: 开发 Windows 软件必备 IDE，开发游戏🎮也是
+2. Git: 由于 Windows 的原因，它并没有自带 Git。
+3. Unity Hub: 开发游戏才需要的，不需要就略过。
+4. Unity: 🆓免费游戏引擎！Unity Yes！
+5. V2rayN: 你懂的。
+
+Others:
+1. Steam: 知名不会数三的游戏厂商出的游戏交易平台。
+2. Cemu: 能运行 塞尔达传说：荒野之息 的 WII U 模拟器。
+3. DS4Windows: 有 PS4 手柄🎮，但是又不怎么用的，用这个软件就没错了，完美支持 Cemu 等模拟器。
+4. 雷神 NN 加速器: Origin 好帮手，没它，估计 Apex 玩不了了，能加速很多其它游戏🎮。
+5. BitComet: 还算好用的下载⏬软件，我已抛弃迅雷。
+6. FreeDownloadManager: 一个挺简洁的下载⬇️软件，但是不怎么好用。
+7. SpeedPanX: 现在还能用的百度网盘文件📃下载⏬软件
+8. 人人影视: 好多美剧、日剧、韩剧都在这看的
+9. 飞鸽: 还没用过，能传输大文件，免费🆓。
+10. Honeyview: 好用的看图软件，能看 GIF 格式的动图。
+11. Bandizip: 画面干净的压缩软件（从 7.0 开始变得有广告了）。
+12. TeamViewer: 远程协助必备。
+13. PotPlayer: 超屌的播放器，我更喜欢 Win 的 Potplayer，可能还没习惯 IINA。
+14. Auto Dark Mode: 配合夜览使用，能像 macOS 一样自动切换日夜模式。
+15. 大白菜: 超级简单就能做出启动 U盘，新版本的 PE系统 还能连 Wi-Fi。
+16. MenuMgr: 管理右键弹出栏的内容，开箱即用，用完即弃。
+17. Renamer: 快速重命名文件软件，开箱即用，用完即弃。
+18. 魔方系统助手: 巨多广告，但是很好用的系统管理软件，开箱即用。（我一般用来删除删除不了的启动项）
