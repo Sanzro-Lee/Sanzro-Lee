@@ -39,6 +39,8 @@ OtherTools:
 13. Logic Pro X: 音乐🎵编辑软，这一块现在少接触，所以还不了解。
 14. KeePassXC：密码管理软件。
 15. V2vayU: 你懂的。
+16. 糯词笔记: 阅读笔记📒管理软件。
+17. Archiver: 解压🗜️软件。
 
 PS. macOS 自动识别 PS4 手柄🎮！
 <br><br><br>
