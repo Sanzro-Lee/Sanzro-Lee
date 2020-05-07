@@ -31,13 +31,14 @@ OtherTools:
 5. Folx: 超级好用的下载⏬软件。
 6. IINA: 没有 Potpalyer 的陪伴，只能用用这个了，目前觉得挺好用的。
 7. Notion: 必备事务计划软件，什么都能往上面写，就算错删也没事，能在回收站♻️找回来。
-8. Window Tidy: 窗口分配软件。
-9. Alfred: 聚合型系统搜索🔍引擎。
-10. Mounty: NTFS 格式读写必备软件。
+8. Magnet: 窗口分配软件。
+9. Alfred: 聚合型系统搜索🔍引擎。（装了插件后，和Capslock+能相比了）
+10. Mounty: NTFS 格式读写必备软件。（我将所有硬盘格式修改为ExFat格式，所以不再需要这个软件）
 11. OpenEmu: 聚合多种游戏平台模拟器的模拟器软件。
-12. CleanMyMac X: 交互设计精致的系统清理软件。
+12. CleanMyMac X: 交互设计精致的系统清理软件。（有点流氓，无法彻底退出）
 13. Logic Pro X: 音乐🎵编辑软，这一块现在少接触，所以还不了解。
-14. V2vayU: 你懂的。
+14. KeePassXC：密码管理软件。
+15. V2vayU: 你懂的。
 
 PS. macOS 自动识别 PS4 手柄🎮！
 <br><br><br>
