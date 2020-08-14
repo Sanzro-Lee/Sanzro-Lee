@@ -1,4 +1,4 @@
-**跨平台的软件**<br>
+**跨平台软件**<br>
 Design:
 1. Adobe XD: 原型设计软件。
 2. Adobe Photoshop: 图片编辑软件。
