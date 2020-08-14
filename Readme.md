@@ -26,7 +26,7 @@ Other Tools:
 2. KeePassXC: 密码管理软件（免费🆓！）。
 <br><br><br>
 
-**macOS X 10.15:**<br>
+**macOS 10.15**<br>
 Design:
 1. Sketch: UI、原型设计软件。
 
@@ -49,7 +49,7 @@ Other Tools:
 PS. macOS 自动识别 PS4 手柄🎮！
 <br><br><br>
 
-**Windows 10:（与 macOS 重叠的软件将不再赘述）**<br>
+**Windows 10**<br>
 Develop:
 1. Visual Studio: 开发 Windows 软件必备 IDE，开发游戏🎮也是。
 2. Git: 由于 Windows 的原因，它并没有自带 Git。
