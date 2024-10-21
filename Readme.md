@@ -69,5 +69,3 @@ Other Tools:
 13. CleanMyPC: 蛮好用的系统清理软件。
 14. Capslock+ : 和 Alfred 类似，但是界面简陋了点，比 Alfred 方便一点。
 <br><br><br>
-
-以上大部分较难下载的软件软件都已收录在 [Sanzro's Stuffs](http://kolint.xyz ) 网站中。
